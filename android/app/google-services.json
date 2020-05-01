@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "744874870885",
+    "firebase_url": "https://to-do-3d2be.firebaseio.com",
+    "project_id": "to-do-3d2be",
+    "storage_bucket": "to-do-3d2be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744874870885:android:182860f4b6e98b7cf79e8c",
+        "android_client_info": {
+          "package_name": "com.safwan.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744874870885-9u0l0c9v6l6gu93lb1mia5vddbakdtie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeB6Kanmr94ZexsbngsRe2KQ4ID2iGF8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744874870885-9u0l0c9v6l6gu93lb1mia5vddbakdtie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
